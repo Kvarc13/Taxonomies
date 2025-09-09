@@ -138,7 +138,7 @@ Unique ID	Parent	Name	Tier 1	Tier 2	Tier 3	Tier 4
 129	127	Resume Writing and Advice	Careers	Job Search	Resume Writing and Advice		
 130	123	Remote Working	Careers	Remote Working			
 131	123	Vocational Training	Careers	Vocational Training			
-80DV8O		Communication	Communication				
+80DV8O	602	Communication	Technology & Computing	Computing	Computer Software and Applications	Communication	
 380		Crime	Crime				
 381		Disasters	Disasters				
 132		Education	Education				
@@ -704,3 +704,4 @@ VK7KD0	685	Racing Video Games	Video Gaming	Video Game Genres	Racing Video Games
 690	685	Strategy Video Games	Video Gaming	Video Game Genres	Strategy Video Games		
 
 389		War and Conflicts	War and Conflicts				
+
